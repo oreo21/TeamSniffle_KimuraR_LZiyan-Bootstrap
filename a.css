@@ -1,0 +1,18 @@
+.stuff{
+     color: blue;
+     background: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGZhZ1sLNgKY8g0ZPCZ1j-5OLLpWCx_68mJkzFE4jAzSWN_xwY6Jns2og");
+   
+}
+.jumbotron{
+     border: 100px;
+     text-align: center;
+     font-family:"Times New Roman", Times, serif;     
+}
+.container-fluid{
+     color: red;
+     background: url("http://i.stack.imgur.com/9O1Uq.png");
+}
+html{
+     background-image: url("https://fishofgold.files.wordpress.com/2016/04/jetbear-mnrart.gif?w=376");
+     background-size: cover;
+}
